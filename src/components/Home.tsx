@@ -3,7 +3,7 @@ import img from '../assets/img.jpg'
 
 const Home = () => {
   return (
-    <div className="flex flex-col-reverse md:flex-row justify-center items-center md:my-32 my-10">
+    <div className="flex flex-col-reverse md:flex-row justify-center items-center md:my-32 my-10" id="Home">
 
       <div className="flex flex-col ">
 
